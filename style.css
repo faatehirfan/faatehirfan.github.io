@@ -1,0 +1,80 @@
+/* One readable column in the middle of the page. */
+body {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 3rem 1.25rem;
+  background: #faf9f6;
+  color: #1f2328;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+}
+
+h1 {
+  margin: 0 0 1rem;
+  font-size: 2.5rem;
+  line-height: 1.1;
+}
+
+h2 {
+  margin-top: 3rem;
+  font-size: 1.25rem;
+}
+
+a {
+  color: #b4442b;
+}
+
+.eyebrow,
+.lead,
+footer {
+  color: #59636e;
+}
+
+.eyebrow {
+  margin: 0;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.lead {
+  font-size: 1.15rem;
+}
+
+/* Each project is a card. */
+.projects {
+  display: grid;
+  gap: 1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.projects li {
+  padding: 1rem 1.25rem;
+  background: #ffffff;
+  border: 1px solid #e2ded6;
+  border-radius: 8px;
+}
+
+.projects h3,
+.projects p {
+  margin: 0.25rem 0;
+}
+
+.when {
+  color: #b4442b;
+  font-weight: 600;
+}
+
+.contact {
+  display: flex;
+  gap: 1.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+footer {
+  margin-top: 4rem;
+  border-top: 1px solid #e2ded6;
+  font-size: 0.9rem;
+}
