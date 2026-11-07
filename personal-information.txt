@@ -1,0 +1,69 @@
+FATIH IRFAN BIN NORMAN
+Address:Johor Bahru, Johor, Malaysia
+Phone: 011-2736 7499
+Email:fathirfnz@gmail.com
+
+SUMMARY
+Final Year student of Computer Science specializing in Software Engineering with hands-on experience in web and mobile
+application development using Laravel, PHP, MySQL, Flutter, and Java. Experienced in database design, MVC architecture,
+and collaborative software projects. Seeking an internship opportunity to develop practical skills and contribute to software
+development projects.
+
+EDUCATION
+Bachelor in Computer Science (Hons.) - Specialization in Software Engineering.
+Current CGPA: 3.68
+
+Centre for Foundation Studies, IIUM AUG 2022 - AUG 2023
+Engineering and Computer Sciences.
+CGPA: 3.80
+
+TECHNICAL SKILL AND CERTIFICATIONS
+Programming Languages
+PHP, Java, C++, Dart, JavaScript, SQL, HTML, CSS
+Frameworks & Technologies:
+Laravel, Flutter, Firebase, Tailwind CSS, Alpine.js
+Database:
+MySQL, SQL
+Tools:
+Git, GitHub, VS Code, NetBeans, Laragon, HeidiSQL
+
+CERTIFICATIONS
+Cisco Certified Network Associate (CCNA): Introduction to Networks — Jan 2025
+
+ACHIEVEMENTS & ACTIVITIES
+Dean’s List in 6 consecutive semesters
+Bronze Award for FYP 1 Bachelor of Computer Science semester 2 25/26
+Silver award for University in Action Symposium for Muslim Youth Leadership Mentoring Programme.
+Quartermaster, Reserve Officers' Training Unit (ROTU) Army, IIUM — Managed logistics and resource preparation.
+Financial Controller, Moments of Iman — Nadi Watan Club, IIUM.
+Volunteer, JIWA MURNI Community Programme — community service activities including mosque, and cemetery area.
+
+
+PROJECT EXPERIENCE
+1. Activity & Training Management System — Laravel, MySQL, Tailwind CSS, Alpine.js
+-Developed a web-based activity and training management system using Laravel MVC and MySQL.
+-Implemented event management, registration, capacity limits, date conflict checking and role-based access control.
+-Designed relational database structures and system workflows based on functional requirements.
+-Developed responsive admin interfaces using Tailwind CSS and Alpine.js.
+-Integrated FullCalendar for event scheduling and visualization.
+
+2.JomMasjid (Mosque Management App) — Flutter, Dart, Firebase, Git
+-Developed a mobile-based mosque management application using Flutter and Firebase.
+-Implemented unified role-based login, administrative dashboards, live donation tracking, and campaign management.
+-Designed NoSQL database structures and secure transaction workflows to handle live data and prevent collisions.
+-Developed responsive user and admin interfaces using Flutter's declarative UI.
+-Integrated Firestore streams for real-time data visualization and seamless state management.
+
+ADDITIONAL INFORMATION
+Soft Skill : Communication, Leadership, Teamwork, Flexiblity and Adaptability
+Languages : Malay (Fluent), English (Intermediate), Arabic (Basic)
+
+
+
+
+
+
+
+
+
+
